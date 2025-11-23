@@ -23,7 +23,7 @@
 
 ## ✉️ Get in touch
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&label=)](https://t.me/MrGusling) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/ivanmartinovich47) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/ivanmartsinovich47) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&label=)](mailto:martsinovichivan@gmail.com)
 
 ---
