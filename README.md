@@ -1,11 +1,13 @@
+![Profile Banner](https://img.shields.io/badge/Developer-6a737d?style=flat&logo=github&logoColor=white)
+
+I am a passionate game and software developer. I love working on **interesting projects** and experimenting with new technologies.
+
+---
+
 ## 🏄 About Me
 - 🕹️ Developing games with **Unreal Engine**  
 - ⚙️ Working with **C# & C++**, and some web technologies  
 - 🔍 Exploring **network systems** and advanced AI  
-- ✉️ **Get in touch:** 
-  [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MrGusling) 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanmartinovich47) 
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:martsinovichivan@gmail.com)
 
 ---
 
@@ -22,6 +24,13 @@
 **Burden of Flame** is my current project on **Unreal Engine 5**, where I work on various aspects of game development.  
 
 💡 **Key Achievement:** a configurable **procedural dungeon generation algorithm**, which serves as the foundation of the game.
+
+---
+
+## ✉️ Get in touch
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&label=)](https://t.me/MrGusling) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/ivanmartinovich47) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&label=)](mailto:martsinovichivan@gmail.com)
 
 ---
 
