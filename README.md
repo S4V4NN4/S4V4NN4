@@ -1,9 +1,3 @@
-![Profile Banner](https://img.shields.io/badge/Developer-6a737d?style=flat&logo=github&logoColor=white)
-
-I am a passionate game and software developer. I love working on **interesting projects** and experimenting with new technologies.
-
----
-
 ## 🏄 About Me
 - 🕹️ Developing games with **Unreal Engine**  
 - ⚙️ Working with **C# & C++**, and some web technologies  
