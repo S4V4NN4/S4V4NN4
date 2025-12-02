@@ -1,6 +1,6 @@
 ## 🏄 About Me
 - 🕹️ Developing games with **Unreal Engine**  
-- ⚙️ Working with **C# & C++**, and some web technologies  
+- ⚙️ Working with **C# & C++**, and web technologies  
 - 🔍 Exploring **network systems** and advanced AI  
 
 ---
